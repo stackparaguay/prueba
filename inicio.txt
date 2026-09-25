@@ -1,1 +1,1 @@
-Esta es la primera version de nuestro proyecto en git
+Esta es la segunda version de nuestro proyecto en git
